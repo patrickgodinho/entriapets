@@ -23,8 +23,15 @@
 - [  ]  create a [storybook] with your components
 - [  ]  tests using [jest]
 
+#### Server:
+https://github.com/patrickgodinho/graphql-dataloader-boilerplate
+
+Hosted on Google Cloud VM Instances.
+
 ### Future Tasks
 - Refetch container Refactor 
 - Improve design 🎨
 - Add pets Feature
+
+
 
