@@ -4,7 +4,7 @@ import {Environment, Network, RecordSource, Store} from "relay-runtime";
 
 async function fetchQuery(operation, variables) {
   const token = await AsyncStorage.getItem('token');
-  return fetch("http://35.198.18.106:5000/graphql", {
+  return fetch("http://35.198.23.28:5000/graphql", {
     method: "POST",
     headers: {
       Accept: "application/json",
