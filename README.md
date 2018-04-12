@@ -23,3 +23,8 @@
 - [  ]  create a [storybook] with your components
 - [  ]  tests using [jest]
 
+### Future Tasks
+- Refetch container Refactor 
+- Improve design 🎨
+- Add pets Feature
+
