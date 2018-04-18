@@ -24,7 +24,7 @@
 - [  ]  tests using [jest]
 
 #### Server:
-https://github.com/patrickgodinho/graphql-dataloader-boilerplate
+https://github.com/godinhopatrick/graphql-dataloader-boilerplate
 
 Hosted on Google Cloud VM Instances.
 
